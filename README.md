@@ -42,4 +42,3 @@ import RNPlayerMusic from 'react-native-player-music';
 // TODO: What to do with the module?
 RNPlayerMusic;
 ```
-  # react-native-player-music
