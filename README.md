@@ -37,8 +37,8 @@
 
 ## Usage
 ```javascript
-import RNPlayerMusic from 'react-native-player-music';
+import RNPlayerMusicModule from 'react-native-player-music';
 
 // TODO: What to do with the module?
-RNPlayerMusic;
+RNPlayerMusicModule;
 ```
