@@ -5,7 +5,7 @@ import { NativeModules, NativeEventEmitter } from 'react-native';
 
 const { RNPlayerMusic } = NativeModules;
 
-class RNPlayerMusic {
+class RNPlayerMusicModule {
 
     static play(songName) {
         return new Promise((resolve, reject) => {
@@ -21,4 +21,4 @@ class RNPlayerMusic {
 
 }
 
-export default RNPlayerMusic;
+export default RNPlayerMusicModule;
